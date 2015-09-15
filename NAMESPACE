@@ -1,0 +1,3 @@
+useDynLib(CqlsPersistentRcppObject)
+exportPattern("^[[:alpha:]]+")
+import(Rcpp)

@@ -1,0 +1,12 @@
+Package: CqlsPersistentRcppObject
+Type: Package
+Title: Tools for persistent Rcpp Object
+Version: 0.1
+Date: 2015-09-14
+Author: R Cqls
+Maintainer: Who to complain to <rdrouilh@gmail.com>
+Description: More about what it does (maybe more than one line)
+License: What Licence is it under ?
+Depends: Rcpp (>= 0.9.10)
+LinkingTo: Rcpp
+RcppModules: tools_module
