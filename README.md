@@ -1,1 +1,1 @@
-Attempt to make persistent an Rcpp object
+Attempt to make persistent an Rcpp object.
