@@ -1,4 +1,4 @@
 useDynLib(CqlsPersistentRcppObject)
 #exportPattern("^[[:alpha:]]+")
-export("PersistentCqlsObject","rcpp","newEnv")
+export("PersistentRcppObject","rcpp","newEnv")
 import(Rcpp)

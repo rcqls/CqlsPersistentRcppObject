@@ -3,7 +3,7 @@ rcpp <- function(self) {
 }
 
 
-PersistentCqlsObject <- function(self,new_body,renew_body={},save_body={}) {
+PersistentRcppObject <- function(self,new_body,renew_body={},save_body={}) {
 	if(is.environment(self)) { 
 
 		## rcpp recreate method
